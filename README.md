@@ -4,6 +4,17 @@ Education marketplace platform connecting students, tutors, schools and universi
 
 The project included a web platform, mobile student app, admin panel, tutor profiles, WhatsApp verification, payments, role-based access and backend automation.
 
+
+## Visual preview
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/c4a86a236577737.68eebb179901e.jpg" alt="Elinknest app screen 1" width="31%">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/48e02b236577737.68eebb179a745.jpg" alt="Elinknest app screen 2" width="31%">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/2caa6d236577737.68eebb1799d99.jpg" alt="Elinknest app screen 3" width="31%">
+</p>
+
+[View the complete visual case study on Behance](https://www.behance.net/gallery/236577737/Elinknest)
+
 ---
 
 ## My role
